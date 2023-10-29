@@ -1,0 +1,50 @@
+{
+  "order": 1,
+  "totalCount": 9,
+  "next": true,
+  "originalLanguage": "The Story of Tim and Sally's First Day of School",
+  "audio": "path/path",
+  "correspondLanguage": "Povestea primei zile de școală a lui Tim și Sally",
+  "detail": [
+    {
+      "word": "Povestea",
+      "correspond": "The Story",
+      "explanation": "'Povestea' is the Romanian word for 'story' or 'tale'. It is a noun that sets the context for a narrative.",
+      "example": [
+        "Povestea mea este lungă. - My story is long.",
+        "Povestea aceasta este interesantă. - This story is interesting.",
+        "Te ascult, spune-mi povestea. - I am listening, tell me the story."
+      ]
+    },
+    {
+      "word": "primei zile",
+      "correspond": "first day",
+      "explanation": "'Primei zile' translates to 'first day' in English. 'Primei' is the genitive-dative form of 'primul' which means 'the first'. 'Zile' is the genitive-dative form of 'zi' which means 'day'. Together they describe a specific day, in this case, the first one.",
+      "example": [
+        "Primei zile mi-a plăcut cel mai mult. - I liked the first day the most.",
+        "Primei zile de școală îmi era frică. - I was scared on the first day of school.",
+        "Primei zile am fost cel mai activ. - I was the most active on the first day."
+      ]
+    },
+    {
+      "word": "de școală",
+      "correspond": "of school",
+      "explanation": "'De școală' translates to 'of school' in English. 'De' is a preposition that indicates possession or belonging, similar to the English 'of'. 'Școală' means 'school'.",
+      "example": [
+        "Prima zi de școală - The first day of school.",
+        "Sunt profesor de școală - I am a school teacher.",
+        "Am fost la ceremonia de școală - I went to the school ceremony."
+      ]
+    },
+    {
+      "word": "a lui Tim și Sally",
+      "correspond": "of Tim and Sally",
+      "explanation": "'A lui Tim și Sally' translates to 'of Tim and Sally' in English. 'A lui' is a possessive construction indicating to whom the day belongs. 'Și' means 'and', connecting the two names.",
+      "example": [
+        "A lui Tim și Sally e o poveste frumoasă. - Tim and Sally's is a beautiful story.",
+        "Casa a lui Tim și Sally e mare. - Tim and Sally's house is big.",
+        "A lui Tim și Sally e o relație strânsă. - Tim and Sally's is a close relationship."
+      ]
+    }
+  ]
+}

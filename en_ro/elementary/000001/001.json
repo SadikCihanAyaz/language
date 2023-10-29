@@ -1,0 +1,199 @@
+{
+  "category": "Starting...",
+  "categoryCorresponds": "Începând...",
+  "header": "The Story of Tim and Sally's First Day of School",
+  "headerCorresponds": "Povestea primei zile de școală a lui Tim și Sally",
+  "information": "",
+  "informationCorresponds": "",
+  "img": "/path",
+  "paragraph": [
+    {
+      "text": "Greetings and Introductions",
+      "textCorresponds": "Salutări și Introduceri",
+      "header": true,
+      "bold": true
+    },
+    {
+      "text": "Hello, everyone!' said Ms. Johnson, the teacher. 'Welcome to your first day of school!",
+      "textCorresponds": "'Bună, tuturor!' a spus doamna Johnson, profesoara. 'Bine ați venit în prima zi de școală!'",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "Tim walked into the classroom and looked around. He saw Sally sitting alone. Tim thought it would be nice to make a friend.",
+      "textCorresponds": "Tim a intrat în clasă și s-a uitat în jur. A văzut-o pe Sally stând singură. Tim s-a gândit că ar fi frumos să își facă un prieten.",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "'Hi! My name is Tim,' he said to Sally.",
+      "textCorresponds": "'Salut! Numele meu este Tim,' i-a spus el lui Sally.",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "'Hello, Tim! I'm Sally. Nice to meet you!' she replied.",
+      "textCorresponds": "'Bună, Tim! Sunt Sally. Încântată de cunoștință!' a răspuns ea.",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "A fi (To Be) and Other Useful Verbs",
+      "textCorresponds": "'A fi' (A fi) și alte verbe utile",
+      "header": true,
+      "bold": true
+    },
+    {
+      "text": "'Are you excited about the first day?' Tim asked.",
+      "textCorresponds": "'Ești entuziasmată pentru prima zi?' a întrebat Tim.",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "'Yes, I am!' said Sally. 'What about you? Are you happy to be here?'",
+      "textCorresponds": "'Da, sunt!' a spus Sally. 'Tu ce zici? Ești fericit să fii aici?'",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "'I am,' Tim answered. 'I want to learn many things.'",
+      "textCorresponds": "'Sunt,' a răspuns Tim. 'Vreau să învăț multe lucruri.'",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "'Me too! I like to read and write,' Sally said.",
+      "textCorresponds": "'Și eu! Îmi place să citesc și să scriu,' a spus Sally.",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "Numbers Up to a Hundred",
+      "textCorresponds": "Numere până la o sută",
+      "header": true,
+      "bold": true
+    },
+    {
+      "text": "Ms. Johnson started the lesson. 'Today, we'll learn numbers up to a hundred. Let's start with one, two, three, and so on, until we reach one hundred. Tim, can you count to ten?'",
+      "textCorresponds": "Doamna Johnson a început lecția. 'Astăzi, vom învăța numere până la o sută. Să începem cu unu, doi, trei și așa mai departe, până ajungem la o sută. Tim, poți să numeri până la zece?'",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "Tim counted, 'One, two, three, four, five, six, seven, eight, nine, ten!'",
+      "textCorresponds": "Tim a numărat, 'Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă, zece!'",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "'Excellent!' said Ms. Johnson. 'Sally, can you continue from eleven to twenty?'",
+      "textCorresponds": "'Excelent!' a spus doamna Johnson. 'Sally, poți continua de la unsprezece la douăzeci?'",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "Sally counted, 'Eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty!'",
+      "textCorresponds": "Sally a numărat, 'Unsprezece, doisprezece, treisprezece, paisprezece, cincisprezece, șaisprezece, șaptesprezece, optsprezece, nouăsprezece, douăzeci!'",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "Positive and Negative Forms",
+      "textCorresponds": "Forme Pozitive și Negative",
+      "header": true,
+      "bold": true
+    },
+    {
+      "text": "After the numbers lesson, Ms. Johnson said, 'We also need to learn positive and negative forms of verbs.'",
+      "textCorresponds": "După lecția de numere, doamna Johnson a spus, 'Trebuie să învățăm și formele pozitive și negative ale verbelor.'",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "'Is everyone ready?' she asked. 'Say 'yes' for positive and 'no' for negative.'",
+      "textCorresponds": "'Este toată lumea pregătită?' a întrebat ea. 'Spuneți 'da' pentru pozitiv și 'nu' pentru negativ.'",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "'I am ready,' said Tim, using the positive form.",
+      "textCorresponds": "'Sunt pregătit,' a spus Tim, folosind forma pozitivă.",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "'I am not tired,' said Sally, using the negative form.",
+      "textCorresponds": "'Nu sunt obosită,' a spus Sally, folosind forma negativă.",
+      "header": false,
+      "bold": false
+    },
+    {
+      "text": "And so, Tim and Sally became friends. They were happy to learn new things and looked forward to the rest of the school year. They knew it was going to be a fun and educational journey.",
+      "textCorresponds": "Și astfel, Tim și Sally au devenit prieteni. Erau bucuroși să învețe lucruri noi și așteptau cu nerăbdare restul anului școlar. Știau că va fi o călătorie distractivă și educativă.",
+      "header": false,
+      "bold": false
+    }
+  ],
+  "questions": [
+    {
+      "question": "Does it surprise you that Tim decided to approach Sally who was sitting alone on the first day of school?",
+      "questionCorrespond": "Te surprinde că Tim a decis să se apropie de Sally, care stătea singură în prima zi de școală?",
+      "answer": "No, it doesn't surprise me. It's common for people to make friends on the first day of school, especially if someone is sitting alone.",
+      "answerCorrespond": "Nu, nu mă surprinde. Este obișnuit ca oamenii să își facă prieteni în prima zi de școală, mai ales dacă cineva stă singur."
+    },
+    {
+      "question": "How do you feel about the importance of learning numbers up to a hundred in an elementary classroom?",
+      "questionCorrespond": "Ce părere ai despre importanța învățării numerelor până la o sută într-o clasă elementară?",
+      "answer": "I think it's essential. Learning numbers is a foundational skill that is necessary for more advanced mathematics.",
+      "answerCorrespond": "Cred că este esențial. Învățarea numerelor este o abilitate de bază care este necesară pentru matematica mai avansată."
+    },
+    {
+      "question": "Do you agree with Tim and Sally's enthusiasm for wanting to learn many things?",
+      "questionCorrespond": "Ești de acord cu entuziasmul lui Tim și Sally de a vrea să învețe multe lucruri?",
+      "answer": "Absolutely, their enthusiasm is infectious and highlights the importance of having a desire to learn.",
+      "answerCorrespond": "Absolut, entuziasmul lor este molipsitor și evidențiază importanța de a avea dorința de a învăța."
+    },
+    {
+      "question": "How important is it to you to have a friendly greeting and introduction when meeting someone new?",
+      "questionCorrespond": "Cât de important este pentru tine să ai o salutare și o introducere prietenoasă atunci când întâlnești pe cineva nou?",
+      "answer": "Very important. A friendly greeting sets the tone for a positive interaction.",
+      "answerCorrespond": "Foarte important. O salutare prietenoasă stabilește tonul pentru o interacțiune pozitivă."
+    },
+    {
+      "question": "Do you think learning about positive and negative forms of verbs at an early age is beneficial?",
+      "questionCorrespond": "Crezi că învățarea formelor pozitive și negative ale verbelor de la o vârstă fragedă este benefică?",
+      "answer": "Yes, understanding language structure from an early age can make learning more complex concepts easier later on.",
+      "answerCorrespond": "Da, înțelegerea structurii limbajului de la o vârstă fragedă poate face mai ușoară învățarea conceptelor mai complexe mai târziu."
+    },
+    {
+      "question": "What's your opinion on using stories like this one for educational purposes?",
+      "questionCorrespond": "Care este opinia ta despre utilizarea poveștilor ca aceasta în scopuri educative?",
+      "answer": "I think stories are a great way to engage learners. They can make abstract concepts more relatable.",
+      "answerCorrespond": "Cred că poveștile sunt o modalitate excelentă de a implica elevii. Ele pot face conceptele abstracte mai ușor de înțeles."
+    },
+    {
+      "question": "Are you a fan of incorporating different learning topics, like greetings and numbers, into a single narrative?",
+      "questionCorrespond": "Ești un fan al încorporării diferitelor subiecte de învățare, cum ar fi saluturi și numere, într-o singură narațiune?",
+      "answer": "Yes, it keeps the learning experience diverse and engaging, which can be particularly helpful for younger learners.",
+      "answerCorrespond": "Da, menține experiența de învățare diversă și angajantă, ceea ce poate fi deosebit de util pentru elevii mai tineri."
+    },
+    {
+      "question": "Would you feel comfortable counting numbers in front of a class like Tim and Sally did?",
+      "questionCorrespond": "Te-ai simți confortabil numărând numere în fața unei clase, așa cum au făcut Tim și Sally?",
+      "answer": "Initially, I might feel a bit nervous, but I think it's a good learning experience.",
+      "answerCorrespond": "Inițial, aș putea să mă simt un pic nervos, dar cred că este o bună experiență de învățare."
+    },
+    {
+      "question": "Do you believe the first day of school is an important occasion for making friends?",
+      "questionCorrespond": "Crezi că prima zi de școală este o ocazie importantă pentru a-ți face prieteni?",
+      "answer": "Yes, first impressions are lasting, and the first day of school offers a unique opportunity to build friendships.",
+      "answerCorrespond": "Da, primele impresii sunt durabile, iar prima zi de școală oferă o ocazie unică de a construi prietenii."
+    },
+    {
+      "question": "How do you feel about Ms. Johnson's teaching methods, such as asking the class if they are ready for a lesson?",
+      "questionCorrespond": "Ce părere ai despre metodele de predare ale doamnei Johnson, cum ar fi întrebarea clasei dacă sunt pregătiți pentru o lecție?",
+      "answer": "I like her approach. It's participative and ensures that the students are engaged in the learning process.",
+      "answerCorrespond": "Îmi place abordarea ei. Este participativă și asigură că elevii sunt implicați în procesul de învățare."
+    }
+  ]
+}
