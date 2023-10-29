@@ -1,0 +1,20 @@
+{
+  "languages": [
+    {
+      "language": "Romanian",
+      "languageOwn": "Română",
+      "flag": "path",
+      "code": "ro",
+      "willLearn": ["en_ro"],
+      "spokenToLearn": []
+    },
+    {
+      "language": "English",
+      "languageOwn": "English",
+      "flag": "path",
+      "code": "en",
+      "willLearn": [],
+      "spokenToLearn": ["en_ro"]
+    }
+  ]
+}
